@@ -1,4 +1,4 @@
-# cordova-plugin-HostnameInfo
+# cordova-plugin-hostname-info
 
 Check if plugin is defined:
 ```javascript
@@ -30,16 +30,16 @@ from github
 ```json
 {
     "plugin" : {
-        "url" : "https://github.com/miltinhoc/cordova-plugin-HostnameInfo.git"
+        "url" : "https://github.com/RoyalAholdDelhaize/cordova-plugin-hostname-info.git"
     }
 }
 ```
 from a zip file
 ```json
 {
-    "resource": "cordova-plugin-hostnameinfo.zip",
+    "resource": "cordova-plugin-hostname-info.zip",
     "plugin": {
-        "resource": "cordova-plugin-hostnameinfo"
+        "resource": "cordova-plugin-hostname-info"
     }
 }
 ```
